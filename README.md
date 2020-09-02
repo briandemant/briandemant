@@ -3,9 +3,9 @@
 <!--
 ![I am a senior developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 -->
-I made this  simple GitHub readme files that you can copy/paste as use in your profile.
+I made this simple GitHub readme  just so you can find me.
 
-Skills: REACT / JS / HTML / CSS / 
+Skills: REACT / JS / HTML / CSS ... and so much more 😃
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Machine Learning 
